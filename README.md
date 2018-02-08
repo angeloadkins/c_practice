@@ -1,6 +1,18 @@
 # c_practice
 Practice repository from the c programming language by Dennis Ritchie 
 
+# Chapter One Exercises
+
+Exercies 1_1 asks you to run the hello world program and experiment by leaving out certain parts of the code. The code for the **Hello World** program is
+
+````
+#include <stdio.h>
+
+int main() {
+	printf("Hello World\n");
+	return 0;
+}
+
 # Understanding Pointers
 
 In C pointers are a way to access the address of a variable. For example if I want to point to the address of a variable I would use the syntax
