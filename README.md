@@ -5,8 +5,7 @@ Practice repository from the c programming language by Dennis Ritchie
 
 Exercies 1_1 asks you to run the hello world program and experiment by leaving out certain parts of the code. The code for the **Hello World** program is
 
-````
-#include <stdio.h>
+````#include <stdio.h>
 
 int main() {
 	printf("Hello World\n");
