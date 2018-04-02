@@ -18,6 +18,8 @@ int main() {
 ````
 **Exercise 1-2.** Experiment to find out what happens when printf's argument string containts \c, where c is some character not listed above.
 
+**Exercise 1-3.** Modify the temperature conversion program to print a heading above the table.
+
 # Understanding Pointers
 
 In C pointers are a way to access the address of a variable. For example if I want to point to the address of a variable I would use the syntax
