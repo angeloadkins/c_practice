@@ -3,7 +3,7 @@ Practice repository from the c programming language by Dennis Ritchie
 
 # Chapter One Exercises
 
-Exercies 1_1 asks you to run the hello world program and experiment by leaving out certain parts of the code. The code for the **Hello World** program is
+**Exercies 1_1** asks you to run the hello world program and experiment by leaving out certain parts of the code. The code for the **Hello World** program is
 
 ````
 #include <stdio.h>
