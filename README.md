@@ -5,6 +5,9 @@ Practice repository from the c programming language by Dennis Ritchie
 
 **Exercies 1_1.** Run the "hello, world" program on your system. Experiment with leaving out parts of the program, to see what error messages you get.
 
+**Answer:**
+The hello world program is
+
 ````
 #include <stdio.h>
 
