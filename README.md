@@ -35,8 +35,7 @@ int main() {
 
 Afterwards compile the program
 ```console 
-foo@bar:~$ whoamii
-foo
+gcc -o hello_world hello_world.c
 ```
 
 **Exercise 1-2.** Experiment to find out what happens when printf's argument string containts \c, where c is some character not listed above.
