@@ -1,4 +1,4 @@
-# C Programming
+## C Programming
 Practice repository from the c programming language by me
 
 # Chapter One Exercises
