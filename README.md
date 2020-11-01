@@ -7,15 +7,24 @@ Practice repository from the c programming language by me
 * [Chapter one](#test)
 * [Variables and Arithmetic Expressions]()
 
-## [Chapter 2. Types, Operators, and Expressions]()
+## [Types, Operators, and Expressions]()
 
 * [Variable Names]()
 * [Data Types and Sizes]()
 
-## [Chapter 3. Control Flow]()
+## [Control Flow]()
 
 * [Statement and Blocks]()
 * [If-Else]()
+
+## [Functions]()
+
+* [Pass by reference vs pass by value]()
+
+## [Pointers and Arrays]()
+
+* [Introduction to Arrays]()
+* [Pointers]()
 
 
 # Chapter 1
