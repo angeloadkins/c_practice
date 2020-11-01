@@ -38,6 +38,9 @@ Afterwards compile the program
 gcc -o hello_world hello_world.c
 ```
 
+That's pretty cool right 
+
+
 **Exercise 1-2.** Experiment to find out what happens when printf's argument string containts \c, where c is some character not listed above.
 
 **Exercise 1-3.** Modify the temperature conversion program to print a heading above the table.
