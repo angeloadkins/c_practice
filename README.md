@@ -1,7 +1,7 @@
 # C Programming
 Practice repository from the c programming language by me
 
-## [Chapter 1. An Introduction](#chapter-1) 
+## [An Introduction](#chapter-1) 
 
 * [Getting Started](#getting-started)
 * [Chapter one](#test)
