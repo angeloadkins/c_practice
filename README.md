@@ -23,10 +23,7 @@ Here is a bunch of test that will be in chapter 1.
 
 ## Getting Started
 
-**Exercies 1_1.** Run the "hello, world" program on your system. Experiment with leaving out parts of the program, to see what error messages you get.
-
-**Answer:**
-The hello world program is
+The first step you take in any programming languages is to write a program that prints *Hello World*. 
 
 ```c
 #include <stdio.h>
@@ -35,6 +32,13 @@ int main() {
 	printf("Hello World\n");
 }
 ```
+
+Afterwards compile the program
+```console 
+foo@bar:~$ whoamii
+foo
+```
+
 **Exercise 1-2.** Experiment to find out what happens when printf's argument string containts \c, where c is some character not listed above.
 
 **Exercise 1-3.** Modify the temperature conversion program to print a heading above the table.
