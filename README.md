@@ -1,5 +1,5 @@
-# c_practice
-Practice repository from the c programming language by Dennis Ritchie 
+# C Programming
+Practice repository from the c programming language by me
 
 # Chapter One Exercises
 
